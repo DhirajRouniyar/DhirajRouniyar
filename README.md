@@ -1,10 +1,29 @@
-⚡ Experienced in perception and navigation of self driving cars at 🏬DENSO.
-🔭 I’m currently working on developing perception algorithms for cluttered environment
-🌱 I’m currently pursuing MS in Robotics at WPI 
-👯 I’m looking to collaborate on projects related to visual SLAM based on Computer Vision
-📫 Reach me: Gmail
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajrouniyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajrouniyar" /> </p>
+
+-⚡ I hold experience in perception and navigation of self-driving cars at 🏬DENSO.
+
+-🌱 I’m currently pursuing MS in Robotics at WPI, Massachusetts, USA.
+
+-🔭 I’m doing my research on developing perception algorithms for cluttered environment.
+
+-👯 I’m looking to collaborate on projects related to visual SLAM based on Computer Vision. Let's Connect.
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/dhiraj-rouniyar/home](https://sites.google.com/view/dhiraj-rouniyar/home)
+
+- 📫 Reach me **rouniyardhiraj@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajrouniyar&show_icons=true&locale=en&layout=compact" alt="dhirajrouniyar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajrouniyar&show_icons=true&locale=en" alt="dhirajrouniyar" /></p>
+
                  
