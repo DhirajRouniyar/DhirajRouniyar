@@ -2,13 +2,13 @@
 
 -⚡ I hold experience in perception and navigation of self-driving cars. 🏬Ex - DENSO.
 
--🌱 I’m currently pursuing MS in Robotics at WPI, Massachusetts, USA.
+-🌱 I’m currently pursuing MS in Robotics Engineering at WPI, Massachusetts, USA.
 
 -🔭 I’m doing my research on developing perception algorithms for cluttered environment.
 
 -👯 I’m looking to collaborate on projects related to visual SLAM based on Computer Vision. Let's Connect.
 
-- 👨‍💻 All of my projects are available at [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
+- 👨‍💻 All of my projects are available at my [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 -   📫 Reach me
 <a href="mailto: rouniyardhiraj@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: rouniyardhiraj@gmail.com" height="30" width="40" /></a>
