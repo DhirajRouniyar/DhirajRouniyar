@@ -1,8 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajrouniyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajrouniyar" /> </p>
 
--⚡ I hold experience in perception and navigation of self-driving cars at 🏬DENSO.
+-⚡ I hold experience in perception and navigation of self-driving cars. 🏬Ex - DENSO.
 
 -🌱 I’m currently pursuing MS in Robotics at WPI, Massachusetts, USA.
 
