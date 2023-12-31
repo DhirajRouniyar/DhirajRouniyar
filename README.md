@@ -8,9 +8,9 @@
 
 -👯 I’m looking to collaborate on projects related to visual SLAM based on Computer Vision. Let's Connect.
 
-- 👨‍💻 All of my projects are available at my [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
+-👨‍💻 All of my projects are available at my [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
 
--   📫 Reach me
+-📫 Reach me
 <a href="mailto: rouniyardhiraj@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: rouniyardhiraj@gmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" height="30" width="40" /></a>
 
