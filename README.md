@@ -11,9 +11,6 @@
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/dhiraj-rouniyar/home](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 - 📫 Reach me [GMail](rouniyardhiraj@gmail.com)
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
