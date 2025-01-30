@@ -13,7 +13,7 @@
 -👨‍💻 All of my projects are available at my [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 -📫 Reach me
-<a href="mailto: rouniyardhiraj@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: rouniyardhiraj@gmail.com" height="30" width="40" /></a>
+<a href="mailto: dkrouniyar@wpi.edu" target="blank"><img align="center" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Outlook_%25282018%25E2%2580%2593present%2529.svg&psig=AOvVaw1Jd5_bNTyce2EBGTGdPoJj&ust=1738347272355000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiqm7CGnosDFQAAAAAdAAAAABAE" alt="mailto: dkrouniyar@wpi.edu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" height="30" width="40" /></a>
 
 
