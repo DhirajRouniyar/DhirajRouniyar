@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajrouniyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajrouniyar" /> </p>
 
--⚡ I hold experience in geometric and AI based perception and navigation of AMRs, self-driving cars. 🏬Co-op at Piaggio Fast Forward, Boston & 🏬Ex - DENSO, India.
+-⚡ 🏬Co-op at Piaggio Fast Forward, Boston & 🏬Ex - DENSO, India.
+-⚡ I hold experience in geometric and AI based perception and navigation of AMRs, self-driving cars. 
 
 -🌱 I’m currently pursuing MS in Robotics Engineering at WPI, Massachusetts, USA.
 
