@@ -13,7 +13,7 @@
 -👨‍💻 Visit to my [Portfolio](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 -📫 Reach me
-<a href="mailto: dkrouniyar@wpi.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: dkrouniyar@wpi.edu" height="30" width="40" /></a>
+<a href="mailto: dkrouniyar@wpi.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="mailto: dkrouniyar@wpi.edu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="https://www.linkedin.com/in/dhiraj-kumar-rouniyar-2437ab11a/" height="30" width="40" /></a>
 
 
