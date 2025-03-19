@@ -8,9 +8,9 @@
 
 -🔭 I’m doing my research on developing perception algorithms for cluttered environment.
 
--👯 I’m looking to collaborate on projects related to visual SLAM based on Computer Vision. Let's Connect.
+-👯 I’m looking to collaborate on research in enhancing visual SLAM. Let's Connect.
 
--👨‍💻 All of my projects are available at my [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
+-👨‍💻 Visit to my Portfolio [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 -📫 Reach me
 <a href="mailto: dkrouniyar@wpi.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: dkrouniyar@wpi.edu" height="30" width="40" /></a>
