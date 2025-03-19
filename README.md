@@ -10,7 +10,7 @@
 
 -👯 I’m looking to collaborate on research in enhancing visual SLAM. Let's Connect.
 
--👨‍💻 Visit to my Portfolio [Website](https://sites.google.com/view/dhiraj-rouniyar/home)
+-👨‍💻 Visit to my [Portfolio](https://sites.google.com/view/dhiraj-rouniyar/home)
 
 -📫 Reach me
 <a href="mailto: dkrouniyar@wpi.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto: dkrouniyar@wpi.edu" height="30" width="40" /></a>
