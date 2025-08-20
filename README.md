@@ -8,7 +8,7 @@
 
 -⚡ I hold experience in geometric and AI based perception and navigation of AMRs, self-driving cars. 
 
--🌱 I recently graduated with MS in Robotics Engineering at WPI, Massachusetts, USA.
+-🌱 I recently graduated with MS in Robotics Engineering from WPI, Massachusetts, USA.
 
 -🔭 I’m doing my research on developing perception algorithms for cluttered environment.
 
