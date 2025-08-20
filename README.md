@@ -1,14 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajrouniyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajrouniyar" /> </p>
 
--⚡ 🏬Co-op at Piaggio Fast Forward, Boston & 🏬Ex - DENSO, India.
+-⚡ 🏬Present - Arcbest Technologies, Fort Smith, USA, ## Robotics and AI Engineer (Co-op).
+
+-⚡ 🏬Ex - Piaggio Fast Forward, Boston, USA, ## Robotics and AI Engineer (Co-op).
+
+-⚡ 🏬Ex - DENSO, India, ## Computer Vision Engineer (Full-Time).
 
 -⚡ I hold experience in geometric and AI based perception and navigation of AMRs, self-driving cars. 
 
--🌱 I’m currently pursuing MS in Robotics Engineering at WPI, Massachusetts, USA.
+-🌱 I recently graduated with MS in Robotics Engineering at WPI, Massachusetts, USA.
 
 -🔭 I’m doing my research on developing perception algorithms for cluttered environment.
 
--👯 I’m looking to collaborate on research in enhancing visual SLAM. Let's Connect.
+-👯 I’m looking to collaborate on research in enhancing Embodied AI and Physical AI. Let's Connect.
 
 -👨‍💻 Visit to my [Portfolio](https://sites.google.com/view/dhiraj-rouniyar/home)
 
