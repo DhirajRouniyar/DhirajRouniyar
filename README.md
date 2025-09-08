@@ -6,7 +6,7 @@
 
 -⚡ 🏬Ex - DENSO, India, ## Computer Vision Engineer (Full-Time).
 
--⚡ I hold experience in geometric and AI based perception and navigation of AMRs, self-driving cars. 
+-⚡ I hold experience in geometric and AI based perception and navigation of Manipulators, AMRs, self-driving cars. 
 
 -🌱 I recently graduated with MS in Robotics Engineering from WPI, Massachusetts, USA.
 
